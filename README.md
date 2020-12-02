@@ -11,5 +11,4 @@ https://yarpiz.com/50/ypea102-particle-swarm-optimization
 
 ## Citing This Work
 You can cite this code as follows:
-README.md updated.
 **Mostapha Kalami Heris, Particle Swarm Optimization in MATLAB (URL: https://yarpiz.com/50/ypea102-particle-swarm-optimization), Yarpiz, 2015.**
