@@ -27,7 +27,7 @@ nVar = 10;            % Number of Decision Variables
 VarSize = [1 nVar];   % Size of Decision Variables Matrix
 
 VarMin = -10;         % Lower Bound of Variables
-VarMax =  10;         % Upper Bound of Variables
+VarMax = 10;         % Upper Bound of Variables
 
 
 %% PSO Parameters
