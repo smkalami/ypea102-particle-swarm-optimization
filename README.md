@@ -1,7 +1,7 @@
 # Particle Swarm Optimization in MATLAB
 
-<p align = "center">
-    <img src = "https://yarpiz.com/wp-content/uploads/2015/09/ypea102-particle-swarm-optimization.jpg" alt = "Particle Swarm Optimization in MATLAB">
+<p align="center">
+    <img src="https://yarpiz.com/wp-content/uploads/2015/09/ypea102-particle-swarm-optimization.jpg" alt="Particle Swarm Optimization in MATLAB">
 </p>
 
 This is an implementation of Particle Swarm Optimization (PSO) in MATLAB.
